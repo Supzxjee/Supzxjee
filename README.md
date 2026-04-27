@@ -53,8 +53,8 @@
 ---
 
 ### 📫 How to reach me:
-- 💼 **LinkedIn:** [linkedin.com/in/le-duc-anh](https://linkedin.com/in/le-duc-anh)
-- 📧 **Email:** ducanh.it@email.com
+- 💼 **LinkedIn:** [linkedin.com/in/le-duc-anh]([https://linkedin.com/in/le-duc-anh](https://www.linkedin.com/in/ducanh2503/))
+- 📧 **Email:** leducanhbvh0@gmail.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Supzxjee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
